@@ -26,7 +26,8 @@ Full_Stack_Ecommerce is a complete e-commerce application built using Node.js, E
 
 ## Screenshots
 
-![Screenshot 2024-08-07 020844](https://github.com/user-attachments/assets/36519d04-1877-4b8d-a21e-411c4661956d)
+![Screenshot 2024-08-07 150748](https://github.com/user-attachments/assets/bf2bdfb5-ba17-4368-97eb-3681b209a3b8)
+
 
 
 ## Installation
