@@ -25,8 +25,8 @@ Full_Stack_Ecommerce is a complete e-commerce application built using Node.js, E
 - Styling: CSS, Bootstrap
 
 ## Screenshots
+![Web_Photo_Editor](https://github.com/user-attachments/assets/98880fa8-f975-4821-a1e9-f6046e1c18eb)
 
-![Screenshot 2024-08-07 150748](https://github.com/user-attachments/assets/bf2bdfb5-ba17-4368-97eb-3681b209a3b8)
 
 
 
