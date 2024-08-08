@@ -69,4 +69,6 @@ To install this project run
 
 ## Demo
 
+https://www.linkedin.com/posts/manish-kumar-mandrai_react-redux-node-activity-7227063481118654464-opVv?utm_source=share&utm_medium=member_desktop
+
 
